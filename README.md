@@ -4,7 +4,7 @@ Entrega de 3 pantallas Bootstrap de nuestro proyecto:
 - contacto.html
 - registro.html
 
-Están linkadas entre sí, así que se puede navegar entre ellas.
+Para poder visualizarlas, descargar todo el contenido del repositorio en local y abrir el index.html desde cualquier navegador. Las webs linkadas entre sÃ­, asÃ­ que se puede navegar entre ellas.
 
 
 
